@@ -6,10 +6,10 @@ This repository contains the programming assignments for the [Deep Learning Spec
 
 ---
 
-This repository is using version:
-Numpy = 2.4.4
-TensorFlow = 2.21.0
-Keras = 3.13.2
+This repository is using version: \
+Numpy = 2.4.4 \
+TensorFlow = 2.21.0 \
+Keras = 3.13.2 \
 
 ---
 
