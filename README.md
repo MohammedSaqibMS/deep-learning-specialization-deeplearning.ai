@@ -38,10 +38,9 @@ All the assignment are tested on a local machine with following specification:
 - **Windowing System:**                            Wayland
 - **Kernel Version:**                              Linux 7.0.0-15-generic
 
-
-
-
 ---
+
+and this make it unique from other Deep Learning Specialization repositories on GitHub.
 
 ## Acknowledgements
 
