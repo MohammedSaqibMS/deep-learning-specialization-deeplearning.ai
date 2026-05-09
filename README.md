@@ -1,35 +1,54 @@
-# Deep Learning Specialization - Programming Assignments
+# Deep Learning Specialization — Programming Assignments
 
-![Status: Under Development](https://img.shields.io/badge/Status-Under_Development-yellow)
+![Status](https://img.shields.io/badge/Status-Under_Development-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-2.4.4-013243?logo=numpy)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21.0-FF6F00?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-3.13.2-D00000?logo=keras)
 
-This repository contains the programming assignments for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by deeplearning.AI, taught by Andrew Ng. The specialization includes five comprehensive courses, each with hands-on assignments designed to help you gain practical experience with deep learning.
-
----
-
-## This repository is using version: \
-Numpy = 2.4.4 \
-TensorFlow = 2.21.0 \
-Keras = 3.13.2
+Programming assignments for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by [DeepLearning.AI](https://www.deeplearning.ai/), taught by **Andrew Ng**. The specialization spans five courses with hands-on assignments covering foundational to advanced deep learning techniques.
 
 ---
 
-All the assignment are tested on a local machine with following specification:
+## What Makes This Repository Different
 
-# System Details Report
----
-## Hardware Information:
-- **Hardware Model:**                              ASUSTeK COMPUTER INC. ASUS TUF Gaming F15 FX507VI_FX507VI
-- **Memory:**                                      32.0 GiB
-- **Processor:**                                   13th Gen Intel® Core™ i7-13620H × 16
-- **Graphics 1:**                                  NVIDIA GeForce RTX™ 4070 Laptop GPU
+All assignments are implemented and tested locally — not in Coursera's cloud environment — using up-to-date library versions. This makes it one of the few repositories keeping pace with the modern NumPy/TensorFlow/Keras ecosystem.
 
-## Software Information:
-- **Firmware Version:**                            FX507VI.328
-- **OS Name:**                                     Ubuntu 26.04 LTS
 ---
 
-and this make it unique from other Deep Learning Specialization repositories on GitHub.
+## Environment
+
+### Library Versions
+
+| Library    | Version |
+|------------|---------|
+| NumPy      | 2.4.4   |
+| TensorFlow | 2.21.0  |
+| Keras      | 3.13.2  |
+
+### Test Machine
+
+| Component  | Details |
+|------------|---------|
+| **Model**  | ASUSTeK ASUS TUF Gaming F15 FX507VI |
+| **CPU**    | 13th Gen Intel® Core™ i7-13620H × 16 |
+| **GPU**    | NVIDIA GeForce RTX 4070 Laptop GPU |
+| **RAM**    | 32 GiB |
+| **OS**     | Ubuntu 26.04 LTS |
+
+---
+
+## Courses
+
+The specialization consists of five courses:
+
+1. Neural Networks and Deep Learning
+2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+3. Structuring Machine Learning Projects
+4. Convolutional Neural Networks
+5. Sequence Models
+
+---
 
 ## Acknowledgements
 
-These assignments are part of the Deep Learning Specialization by DeepLearning.AI on Coursera, taught by Andrew Ng. All credit for the course content goes to the creators of the specialization.
+Course content and assignments are created by [DeepLearning.AI](https://www.deeplearning.ai/) and taught by Andrew Ng on Coursera. All intellectual credit for the curriculum belongs to its original creators. This repository exists solely for learning and reference purposes.
