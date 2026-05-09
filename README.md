@@ -17,27 +17,15 @@ All the assignment are tested on a local machine with following specification:
 
 # System Details Report
 ---
-
-## Report details
-- **Date generated:**                              2026-05-09 20:42:27
-
 ## Hardware Information:
 - **Hardware Model:**                              ASUSTeK COMPUTER INC. ASUS TUF Gaming F15 FX507VI_FX507VI
 - **Memory:**                                      32.0 GiB
 - **Processor:**                                   13th Gen Intel® Core™ i7-13620H × 16
-- **Graphics:**                                    Intel® Graphics (RPL-P)
 - **Graphics 1:**                                  NVIDIA GeForce RTX™ 4070 Laptop GPU
-- **Disk Capacity:**                               1.0 TB
 
 ## Software Information:
 - **Firmware Version:**                            FX507VI.328
 - **OS Name:**                                     Ubuntu 26.04 LTS
-- **OS Build:**                                    (null)
-- **OS Type:**                                     64-bit
-- **GNOME Version:**                               50
-- **Windowing System:**                            Wayland
-- **Kernel Version:**                              Linux 7.0.0-15-generic
-
 ---
 
 and this make it unique from other Deep Learning Specialization repositories on GitHub.
