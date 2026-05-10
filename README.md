@@ -1,9 +1,13 @@
 # Deep Learning Specialization — Programming Assignments
 
+<div align="center">
+
 ![Status](https://img.shields.io/badge/Status-Under_Development-yellow)
 ![NumPy](https://img.shields.io/badge/NumPy-2.4.4-013243?logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21.0-FF6F00?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-3.13.2-D00000?logo=keras)
+
+</div>
 
 Programming assignments for the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by [DeepLearning.AI](https://www.deeplearning.ai/), taught by **Andrew Ng**. The specialization spans five courses with hands-on assignments covering foundational to advanced deep learning techniques.
 
