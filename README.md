@@ -31,13 +31,13 @@ All assignments are implemented and tested locally — not in Coursera's cloud e
 
 ### Test Machine
 
-| Component  | Details |
+<!-- | Component  | Details |
 |------------|---------|
 | **Model**  | ASUSTeK ASUS TUF Gaming F15 FX507VI |
 | **CPU**    | 13th Gen Intel® Core™ i7-13620H × 16 |
 | **GPU**    | NVIDIA GeForce RTX 4070 Laptop GPU |
 | **RAM**    | 32 GiB |
-| **OS**     | Ubuntu 26.04 LTS |
+| **OS**     | Ubuntu 26.04 LTS | -->
 
 ---
 
