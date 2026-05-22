@@ -29,9 +29,9 @@ All assignments are implemented and tested locally — not in Coursera's cloud e
 | TensorFlow | 2.21.0  |
 | Keras      | 3.13.2  |
 
-### Test Machine
+<!-- ### Test Machine
 
-<!-- | Component  | Details |
+| Component  | Details |
 |------------|---------|
 | **Model**  | ASUSTeK ASUS TUF Gaming F15 FX507VI |
 | **CPU**    | 13th Gen Intel® Core™ i7-13620H × 16 |
