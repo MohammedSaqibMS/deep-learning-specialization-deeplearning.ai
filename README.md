@@ -31,6 +31,7 @@ All assignments are implemented and tested locally — not in Coursera's cloud e
 | NumPy      | 2.4.4   |
 | TensorFlow | 2.21.0  |
 | Keras      | 3.13.2  |
+| CUDA Toolkit | 13.2  |
 
 <!-- ### Test Machine
 
