@@ -1,6 +1,6 @@
 <div align="center">
 
-# Deep Learning Specialization — Programming Assignments (2026)
+# Deep Learning Specialization — DeepLearning.AI (2026)
 
 </div>
 <div align="center">
