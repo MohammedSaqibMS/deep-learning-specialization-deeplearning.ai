@@ -1,5 +1,8 @@
+<div align="center">
+
 # Deep Learning Specialization — Programming Assignments (2026)
 
+</div>
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Under_Active_Development-yellow)
