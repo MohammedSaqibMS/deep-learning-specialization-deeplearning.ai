@@ -32,7 +32,7 @@ All assignments are implemented and tested locally — not in Coursera's cloud e
 | TensorFlow | 2.21.0  |
 | Keras      | 3.13.2  |
 | CUDA Toolkit | 13.2  |
-| cuDNN:     | 9.22.0.52 |
+| cuDNN      | 9.22.0.52 |
 
 <!-- ### Test Machine
 
