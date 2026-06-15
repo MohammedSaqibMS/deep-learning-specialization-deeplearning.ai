@@ -4,6 +4,7 @@
 
 </div>
 <div align="center">
+
 ![Status](https://img.shields.io/badge/Status-Under_Active_Development-yellow)
 ![NumPy](https://img.shields.io/badge/NumPy-2.4.4-013243?logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21.0-FF6F00?logo=tensorflow)
