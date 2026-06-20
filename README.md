@@ -1,4 +1,3 @@
-<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MohammedSaqibMS.deep-learning-specialization-deeplearning.ai) -->
 <div align="center">
 
 # Deep Learning Specialization — DeepLearning.AI (2026)
