@@ -66,13 +66,3 @@ data/
 ```
 
 ---
-
-trained on 6 billion tokens with 50-dimensional vectors.
-
-Each word is represented as a point in ℝ⁵⁰ where geometric relationships reflect semantic ones — the classic example being:
-
-```
-vector(king) − vector(man) + vector(woman) ≈ vector(queen)
-```
-
----
