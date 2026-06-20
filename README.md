@@ -25,42 +25,6 @@ All assignments are implemented and tested locally — not in Coursera's cloud e
 
 ---
 
-## Environment
-
-### Library Versions
-
-| Library    | Version |
-|------------|---------|
-| NumPy      | 2.4.4   |
-| TensorFlow | 2.21.0  |
-| Keras      | 3.13.2  |
-| CUDA Toolkit | 13.2  |
-| cuDNN      | 9.22.0.52 |
-
-<!-- ### Test Machine
-
-| Component  | Details |
-|------------|---------|
-| **Model**  | ASUSTeK ASUS TUF Gaming F15 FX507VI |
-| **CPU**    | 13th Gen Intel® Core™ i7-13620H × 16 |
-| **GPU**    | NVIDIA GeForce RTX 4070 Laptop GPU |
-| **RAM**    | 32 GiB |
-| **OS**     | Ubuntu 26.04 LTS | -->
-
----
-
-## Courses
-
-The specialization consists of five courses:
-
-1. Neural Networks and Deep Learning
-2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-3. Structuring Machine Learning Projects
-4. Convolutional Neural Networks
-5. Sequence Models
-
----
-
 ## Acknowledgements
 
 Course content and assignments are created by [DeepLearning.AI](https://www.deeplearning.ai/) and taught by Andrew Ng on Coursera. All intellectual credit for the curriculum belongs to its original creators. This repository exists solely for learning and reference purposes.
