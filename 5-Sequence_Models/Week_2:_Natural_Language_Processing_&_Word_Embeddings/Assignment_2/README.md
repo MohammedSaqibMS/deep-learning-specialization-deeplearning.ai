@@ -41,5 +41,3 @@ mv ~/Downloads/glove.6B.50d.txt data/
 ```
 
 The notebook expects the file at exactly `data/glove.6B.50d.txt`.
-
----
