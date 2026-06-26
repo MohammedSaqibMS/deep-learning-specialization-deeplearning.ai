@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/deep_learning_specialization.jpeg" alt="Alt text" width="400"/>
+<img src="images/deep_learning_specialization.png" alt="deep_learning_specialization_png" width="400"/>
 
 </div>
 <div align="center">
