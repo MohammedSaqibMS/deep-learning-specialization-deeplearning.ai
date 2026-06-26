@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/deep_learning_specialization.png" alt="deep_learning_specialization_png" width="600"/>
+  <img src="images/deep_learning_specialization.png" alt="deep_learning_specialization_png" width="700"/>
 </p>
 
 
