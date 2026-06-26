@@ -1,8 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="images/deep_learning_specialization.png" alt="deep_learning_specialization_png" width="800"/>
+</p>
 
-<img src="images/deep_learning_specialization.png" alt="deep_learning_specialization_png" />
 
-</div>
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Under_Active_Development-yellow)
