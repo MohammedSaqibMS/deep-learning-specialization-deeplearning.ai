@@ -10,6 +10,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-2.4.4-013243?logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21.0-FF6F00?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-3.13.2-D00000?logo=keras)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-4.5.7-F37726?logo=jupyter)
 ![CUDA](https://img.shields.io/badge/CUDA-13.2-76B900?logo=nvidia)
 ![cuDNN](https://img.shields.io/badge/cuDNN-9.22.0.52-76B900?logo=nvidia)
 
