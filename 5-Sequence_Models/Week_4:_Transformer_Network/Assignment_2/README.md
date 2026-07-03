@@ -41,8 +41,3 @@ tree
 ## Usage
 
 Open `Embedding_plus_Positional_encoding.ipynb` in Jupyter/Anaconda and run the cells. The notebook expects the GloVe embeddings to be located at `glove/glove.6B.100d.txt`.
-
-## Notes
-
-- `preprocessing.png` is a reference image used within the notebook to illustrate the preprocessing pipeline.
-- Make sure the `glove` folder name and file name match exactly (`glove/glove.6B.100d.txt`), otherwise the notebook's file-loading path will fail.
