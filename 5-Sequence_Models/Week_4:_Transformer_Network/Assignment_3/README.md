@@ -38,12 +38,3 @@ Move the downloaded file into the `model/` directory.
 
 3 directories, 7 files
 ```
-
-## Usage
-
-Activate the environment and launch the notebook:
-
-```bash
-conda activate tf_26
-jupyter notebook 28_Transformer_application_Named_Entity_Recognition.ipynb
-```
