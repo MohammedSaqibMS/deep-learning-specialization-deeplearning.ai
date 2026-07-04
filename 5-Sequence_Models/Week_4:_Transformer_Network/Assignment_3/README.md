@@ -7,6 +7,7 @@
 ```bash
 conda create -n tf_26 python=3.7
 conda activate tf_26
+conda install conda-forge::tensorflow==2.6.0 conda-forge::tensorflow-gpu==2.6.0
 conda install conda-forge::transformers==4.15.0
 conda install conda-forge::pytorch==1.7.1
 ```
