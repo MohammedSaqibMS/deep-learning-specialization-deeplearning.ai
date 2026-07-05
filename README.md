@@ -19,6 +19,14 @@ Programming assignments for the [Deep Learning Specialization](https://www.cours
 
 ---
 
+## Certificate
+
+<p align="center">
+  <img src="images/certificate.png" alt="deep_learning_specialization_certificate" width="700"/>
+</p>
+
+---
+
 ## What Makes This Repository Different
 
 All assignments are implemented and tested locally — not in Coursera's cloud environment — using up-to-date library versions. This makes it one of the few repositories keeping pace with the modern NumPy/TensorFlow/Keras ecosystem.
