@@ -57,7 +57,3 @@ Once set up, your project directory should look like this:
 
 8 directories, 16 files
 ```
-
-## Usage
-
-Open `29_QA_transformer.ipynb` in Jupyter (with the `tf_26` environment as the kernel) to run the pipeline.
