@@ -22,7 +22,7 @@ Programming assignments for the [Deep Learning Specialization](https://www.cours
 ## Certificate
 
 <p align="center">
-  <img src="images/certificate.png" alt="deep_learning_specialization_certificate" width="700"/>
+  <img src="images/Coursera_SAQIB.png" alt="deep_learning_specialization_certificate" width="700"/>
 </p>
 
 ---
